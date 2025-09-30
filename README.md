@@ -153,6 +153,6 @@ FullStack разработчик с опытом создания enterprise-р�
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tereander&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📈 GitHub Activity Graph:
-![Anurag's GitHub activity graph](https://activity-graph.herokuapp.com/graph?user=Tereander
+![Anurag's GitHub activity graph](https://activity-graph.herokuapp.com/graph?user=Tereander)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tereander&show_icons=true&theme=radical)
