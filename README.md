@@ -147,5 +147,7 @@ FullStack разработчик с опытом создания enterprise-р�
 
 *Готов к сложным задачам, где важна архитектура и масштабируемость решений.*
 
-### :fire: My Stats :
+### :fire: Моя статистика:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tereander&theme=dark&exclude_days=Sat)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tererander&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
