@@ -1,4 +1,4 @@
-# Александр Терехов (@tereander)
+# Александр Терехов
 **FullStack Middle Developer | Python & JS Specialist | Enterprise Solutions Architect**
 
 [![Telegram](https://img.shields.io/badge/Telegram-%40tereander-blue)](https://t.me/tereander)
