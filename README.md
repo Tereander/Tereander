@@ -1,5 +1,5 @@
 # Александр Терехов
-**FullStack Middle Developer | Python & JS Specialist | Enterprise Solutions Architect**
+**FullStack Middle Developer | Python & JS Specialist | Enterprise Solutions Architect | Mentor | AI Cleanup Specialist**
 
 [![Telegram](https://img.shields.io/badge/Telegram-%40tereander-blue)](https://t.me/tereander)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-%233776AB?logo=python&logoColor=white)](https://python.org)
@@ -81,9 +81,9 @@ FullStack разработчик с опытом создания enterprise-р�
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-%23316192?logo=postgresql&logoColor=white)
 
 ### **AI/ML Development**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Intermediate-%23FF6F00?logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-Intermediate-%23EE4C2C?logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Intermediate-%23F7931E?logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Beginner-%23FF6F00?logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-Beginner-%23EE4C2C?logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Beginner-%23F7931E?logo=scikit-learn&logoColor=white)
 
 ### **Frontend Development**
 ![HTML5](https://img.shields.io/badge/HTML5-Expert-%23E34F26?logo=html5&logoColor=white)
@@ -92,9 +92,9 @@ FullStack разработчик с опытом создания enterprise-р�
 ![Chart.js](https://img.shields.io/badge/Chart.js-Intermediate-%23FF6384?logo=chart.js&logoColor=white)
 
 ### **DevOps & Infrastructure**
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-Intermediate-%23FC6D26?logo=gitlab&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-Intermediate-%23009639?logo=nginx&logoColor=white)
-![Zabbix](https://img.shields.io/badge/Zabbix-Intermediate-%23D50000?logo=zabbix&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-Beginner-%23FC6D26?logo=gitlab&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-Beginner-%23009639?logo=nginx&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-Beginner-%23D50000?logo=zabbix&logoColor=white)
 
 ### **Additional Technologies**
 ![C#](https://img.shields.io/badge/C%23-Intermediate-%23239120?logo=c-sharp&logoColor=white)
@@ -144,9 +144,6 @@ FullStack разработчик с опытом создания enterprise-р�
 - Тесное взаимодействие с бизнес-пользователями
 - Создание сопроводительной документации
 
-### **Принципы работы**
-> "Код должен решать бизнес-задачи, а не создавать новые. Архитектура важнее скорости написания кода."
-
 ### **Менторство и обучение**
 - Проведение обучения по основам разработки
 - Индивидуальное менторство разработчиков
@@ -178,11 +175,8 @@ FullStack разработчик с опытом создания enterprise-р�
 - 🧠 **Исследую:** Практическое применение AI в бизнес-процессах
 </details>
 
----
-
-**💼 "Создаю не просто код, а работающие бизнес-процессы"**
-
-*Готов к сложным задачам, где важна архитектура и масштабируемость решений.*
+<details>
+<summary>📊 Статистика GitHub</summary>
 
 ### :fire: Моя статистика:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tereander&theme=dark&exclude_days=Sat)](https://git.io/streak-stats)
@@ -192,3 +186,12 @@ FullStack разработчик с опытом создания enterprise-р�
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tereander&show_icons=true&theme=radical)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Tereander&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+</details>
+
+---
+
+> "Код должен решать бизнес-задачи, а не создавать новые. Архитектура важнее скорости написания кода."
+
+**💼 "Создаю не просто код, а работающие бизнес-процессы"**
+
+*Готов к сложным задачам, где важна архитектура и масштабируемость решений.*
