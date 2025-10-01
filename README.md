@@ -179,7 +179,7 @@ FullStack разработчик с опытом создания enterprise-р�
 <summary>📊 Статистика GitHub</summary>
 
 ### :fire: Моя статистика:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tereander&locale=ru&theme=dark&exclude_days=Sat)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tereander&locale=ru&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tereander&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
