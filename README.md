@@ -186,22 +186,13 @@ FullStack разработчик с опытом создания enterprise-р�
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tereander&show_icons=true&theme=radical&locale=ru)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Tereander&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-Карточка профиля: 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tereander&theme=solarized_dark)
-
-Статистика языков в коммитах:
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tereander&theme=solarized_dark)
-
-Статистика языков в репозиториях:
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tereander&theme=solarized_dark)
-
-Статистика профиля:
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tereander&theme=solarized_dark)
-
-Данные по коммитам за сутки:
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tereander&theme=solarized_dark)
 </details>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tereander&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tereander&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tereander&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tereander&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tereander&theme=solarized_dark)
 
 ---
 
