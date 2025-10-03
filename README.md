@@ -188,12 +188,6 @@ FullStack разработчик с опытом создания enterprise-р�
 [![trophy](https://github-profile-trophy.vercel.app/?username=Tereander&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </details>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tereander&locale=ru&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tereander&locale=ru&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tereander&locale=ru&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tereander&locale=ru&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tereander&locale=ru&theme=solarized_dark)
-
 ---
 
 > "Код должен решать бизнес-задачи, а не создавать новые. Архитектура важнее скорости написания кода."
