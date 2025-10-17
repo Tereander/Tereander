@@ -6,6 +6,7 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-%23F7DF1E?logo=javascript&logoColor=black)](https://javascript.com)
 [![C#](https://img.shields.io/badge/C%23-.NET-%23239120?logo=c-sharp&logoColor=white)](https://dotnet.microsoft.com)
 
+![](https://github-readme-stats-pfuhvzz8h-tereanders-projects.vercel.app/api/top-langs/?username=Tereander&theme=vision-friendly-dark&locale=ru)
 <details>
 <summary>🚀 Обо мне</summary>
 
@@ -182,7 +183,7 @@ FullStack разработчик с опытом создания enterprise-р�
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tereander&locale=ru&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tereander&theme=vision-friendly-dark&locale=ru)](https://github.com/Tereander/github-readme-stats)
-![](https://github-readme-stats-pfuhvzz8h-tereanders-projects.vercel.app/api/top-langs/?username=Tereander&theme=vision-friendly-dark&locale=ru)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tereander&show_icons=true&theme=radical&locale=ru)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Tereander&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
