@@ -7,6 +7,11 @@
 [![C#](https://img.shields.io/badge/C%23-.NET-%23239120?logo=c-sharp&logoColor=white)](https://dotnet.microsoft.com)
 
 <img src="https://github-readme-stats-pfuhvzz8h-tereanders-projects.vercel.app/api/top-langs/?username=Tereander&theme=vision-friendly-dark" alt="Top Languages" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Tereander&theme=dark)](https://git.io/streak-stats)
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Tereander&show_icons=true&theme=radical)
+https://github-readme-stats-pfuhvzz8h-tereanders-projects.vercel.app/api/top-langs/?username=Tereander
+
+
 <details>
 <summary>🚀 Обо мне</summary>
 
