@@ -182,7 +182,7 @@ FullStack разработчик с опытом создания enterprise-р�
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tereander&locale=ru&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tereander&theme=vision-friendly-dark&locale=ru)](https://github.com/Tereander/github-readme-stats)
-[![Top Langs](https://github-readme-stats-tereanders-projects.vercel.app/api/top-langs/?username=Tereander&theme=vision-friendly-dark&locale=ru)](https://github.com/Tereander)
+[![Top Langs](https://github-readme-stats-pfuhvzz8h-tereanders-projects.vercel.app//api/top-langs/?username=Tereander&theme=vision-friendly-dark&locale=ru)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tereander&show_icons=true&theme=radical&locale=ru)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Tereander&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
