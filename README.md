@@ -6,7 +6,7 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-%23F7DF1E?logo=javascript&logoColor=black)](https://javascript.com)
 [![C#](https://img.shields.io/badge/C%23-.NET-%23239120?logo=c-sharp&logoColor=white)](https://dotnet.microsoft.com)
 
-[![Top Langs](https://github-readme-stats-9tzwgrbn5-tereanders-projects.vercel.app/api/top-langs/?username=Tereander&theme=vision-friendly-dark&locale=ru)](https://github.com/Tereander/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tereander&theme=dark&hide_border=true)](https://github.com/Tereander)
 
 
 <details>
