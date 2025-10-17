@@ -6,9 +6,6 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-%23F7DF1E?logo=javascript&logoColor=black)](https://javascript.com)
 [![C#](https://img.shields.io/badge/C%23-.NET-%23239120?logo=c-sharp&logoColor=white)](https://dotnet.microsoft.com)
 
-[![Топ языков](https://github-readme-stats-9tzwgrbn5-tereanders-projects.vercel.app/api/top-langs/?username=Tereander&theme=vision-friendly-dark&locale=ru&langs_count=8&exclude_repo=github-readme-stats&layout=donut)](https://github-readme-stats-9tzwgrbn5-tereanders-projects.vercel.app/api/top-langs/?username=Tereander&theme=vision-friendly-dark&locale=ru&langs_count=8&exclude_repo=github-readme-stats&layout=donut)
-
-
 <details>
 <summary>🚀 Обо мне</summary>
 
@@ -182,9 +179,9 @@ FullStack разработчик с опытом создания enterprise-р�
 <summary>📊 Статистика GitHub</summary>
 
 ### :fire: Моя статистика:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tereander&locale=ru&theme=dark)](https://git.io/streak-stats)
+[![Топ языков](https://github-readme-stats-9tzwgrbn5-tereanders-projects.vercel.app/api/top-langs/?username=Tereander&theme=vision-friendly-dark&locale=ru&langs_count=8&exclude_repo=github-readme-stats&layout=donut)](https://github-readme-stats-9tzwgrbn5-tereanders-projects.vercel.app/api/top-langs/?username=Tereander&theme=vision-friendly-dark&locale=ru&langs_count=8&exclude_repo=github-readme-stats&layout=donut)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tereander&theme=vision-friendly-dark&locale=ru)](https://github.com/Tereander/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tereander&locale=ru&theme=dark)](https://git.io/streak-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tereander&show_icons=true&theme=radical&locale=ru)
 
