@@ -180,6 +180,9 @@ FullStack разработчик с опытом создания enterprise-р�
 
 ### :fire: Моя статистика:
 [![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=Tereander&layout=compact)](https://github.com/Tereander/github-readme-stats)
+<a href="https://github.com/Tereander/github-readme-stats">
+    <img src="[ссылка на плагин/?user=сюда вписываем юзернейм](https://github-readme-stats.vercel.app/api/top-langs/?username=Tereander&layout=compact)" />
+</a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tereander&locale=ru&theme=dark)](https://git.io/streak-stats)
 
