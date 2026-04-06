@@ -177,18 +177,11 @@ FullStack разработчик с опытом создания enterprise-р�
 
 <details>
 <summary>📊 Статистика GitHub</summary>
-
-### :fire: Моя статистика:
-[![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=Tereander&layout=compact)](https://github.com/Tereander/github-readme-stats)
-<a href="https://github.com/Tereander/github-readme-stats">
-    <img src="[ссылка на плагин/?user=сюда вписываем юзернейм](https://github-readme-stats.vercel.app/api/top-langs/?username=Tereander&layout=compact)" />
-</a>
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tereander&locale=ru&theme=dark)](https://git.io/streak-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tereander)](https://github.com/Tereander/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tereander&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 </details>
 
 ---
