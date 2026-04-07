@@ -1,5 +1,5 @@
 # Александр Терехов
-**FullStack Middle Developer | Go & Python | Enterprise Solutions Architect | Mentor | AI Cleanup Specialist**
+**FullStack Senior Developer | Go & Python | Enterprise Solutions Architect | Mentor | AI Cleanup Specialist**
 
 [![Telegram](https://img.shields.io/badge/Telegram-%40tereander-blue)](https://t.me/tereander)
 [![Go](https://img.shields.io/badge/Go-1.21%2B-%2300ADD8?logo=go&logoColor=white)](https://go.dev)
